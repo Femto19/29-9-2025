@@ -8,13 +8,6 @@ env/
 __pycache__/
 *.pyc
 
-# File CSDL và các file được tạo tự động
-#/database/
-#/dataset/
-#/unidentified/
-#papergo.db
-#*.sqlite3
-
 # File index và metadata của AI
 face_index.faiss
 student_ids.pkl
